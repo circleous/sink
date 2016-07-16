@@ -3,7 +3,7 @@
 /* green */
 /* yellow */
 /* blue */
-/* orange */
+/* magenta/orange */
 /* cyan */
 /* white */
 html, body, h1, ul, li, p {
@@ -11,7 +11,7 @@ html, body, h1, ul, li, p {
   padding: 0; }
 
 body {
-  background: #1d2a30;
+  background: #1b2227;
   height: 100vh;
   width: 100vw; }
 
@@ -27,14 +27,14 @@ main {
     left: 40%;
     transform: translate(-40%, -60%); } }
 h1 {
-  color: #6dc2a3;
+  color: #6d7762;
   font-family: "Terminus";
   font-size: 26pt;
   letter-spacing: 1px;
   padding-left: 4px; }
 
 p {
-  color: #c0c5ce;
+  color: #7b8695;
   font-family: "GohuFont";
   font-size: 7pt; }
 
@@ -51,32 +51,32 @@ li {
   margin: 0 5px; }
 
 .subh {
-  color: #a66363;
+  color: #785561;
   font-weight: bold;
   margin-top: 5px;
   text-decoration: none;
   transition: .2s; }
 
 .subh:hover {
-  color: #c27171; }
+  color: #8a6270; }
 
 a {
-  color: #63a69b;
+  color: #3c5a5d;
   text-decoration: none;
   transition: .2s; }
 
 a:hover {
-  color: #71c2af; }
+  color: #548084; }
 
 .subh a {
-  color: #a66363; }
+  color: #785561; }
 
 .subh a:hover {
-  color: #c27171; }
+  color: #8a6270; }
 
 .searchfield {
-  background: #456472;
-  color: #eff1f5;
+  background: #374650;
+  color: #94a1b3;
   border: none;
   display: block;
   font-family: "GohuFont";
