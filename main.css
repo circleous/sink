@@ -11,7 +11,7 @@ html, body, h1, ul, li, p {
   padding: 0; }
 
 body {
-  background: #00222b;
+  background: #0a0f14;
   height: 100vh;
   width: 100vw; }
 
@@ -27,14 +27,14 @@ main {
     left: 40%;
     transform: translate(-40%, -60%); } }
 h1 {
-  color: #25485d;
+  color: #093748;
   font-family: "Terminus";
   font-size: 26pt;
   letter-spacing: 1px;
   padding-left: 4px; }
 
 p {
-  color: #cad4d3;
+  color: #98d1ce;
   font-family: "GohuFont";
   font-size: 7pt; }
 
@@ -51,32 +51,32 @@ li {
   margin: 0 5px; }
 
 .subh {
-  color: #85a5b3;
+  color: #195465;
   font-weight: bold;
   margin-top: 5px;
   text-decoration: none;
   transition: .2s; }
 
 .subh:hover {
-  color: #85a5b3; }
+  color: #d26939; }
 
 a {
-  color: #3d637d;
+  color: #33859d;
   text-decoration: none;
   transition: .2s; }
 
 a:hover {
-  color: #3d637d; }
+  color: #599caa; }
 
 .subh a {
-  color: #85a5b3; }
+  color: #c33027; }
 
 .subh a:hover {
-  color: #85a5b3; }
+  color: #d26939; }
 
 .searchfield {
-  background: #003b4f;
-  color: #cad4d3;
+  background: #10151b;
+  color: #d3ebe9;
   border: none;
   display: block;
   font-family: "GohuFont";
