@@ -11,7 +11,7 @@ html, body, h1, ul, li, p {
   padding: 0; }
 
 body {
-  background: #0a0f14;
+  background: #051d23;
   height: 100vh;
   width: 100vw; }
 
@@ -27,14 +27,14 @@ main {
     left: 40%;
     transform: translate(-40%, -60%); } }
 h1 {
-  color: #093748;
+  color: #0b627d;
   font-family: "Terminus";
   font-size: 26pt;
   letter-spacing: 1px;
   padding-left: 4px; }
 
 p {
-  color: #98d1ce;
+  color: #b5b5bc;
   font-family: "GohuFont";
   font-size: 7pt; }
 
@@ -51,32 +51,32 @@ li {
   margin: 0 5px; }
 
 .subh {
-  color: #195465;
+  color: #073b49;
   font-weight: bold;
   margin-top: 5px;
   text-decoration: none;
   transition: .2s; }
 
 .subh:hover {
-  color: #d26939; }
+  color: #a68479; }
 
 a {
-  color: #33859d;
+  color: #3b7279;
   text-decoration: none;
   transition: .2s; }
 
 a:hover {
-  color: #599caa; }
+  color: #53a0aa; }
 
 .subh a {
-  color: #c33027; }
+  color: #725c4c; }
 
 .subh a:hover {
-  color: #d26939; }
+  color: #a68479; }
 
 .searchfield {
-  background: #10151b;
-  color: #d3ebe9;
+  background: #094657;
+  color: #eee7e4;
   border: none;
   display: block;
   font-family: "GohuFont";
