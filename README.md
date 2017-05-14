@@ -1,6 +1,7 @@
 # sink
 
 ![Screenshot](https://a.safe.moe/L5CDP.png)
+Try [live version](https://circleous.github.io/sink/)!
 
 How to use?
 -------------------------------
