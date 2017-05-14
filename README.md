@@ -1,6 +1,6 @@
-#sink
+# sink
 
-![Screenshot](https://a.safe.moe/mvvUg.png)
+![Screenshot](https://a.safe.moe/svg4A.png)
 
 How to use?
 -------------------------------
