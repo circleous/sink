@@ -1,3 +1,14 @@
-My current startpage, made by converting ix's webpage styles to scss, adding my color scheme, links and a search bar.
+#sink
 
-![Screenshot](https://raw.githubusercontent.com/tudurom/startpage/master/screenshot.png)
+![Screenshot](https://a.safe.moe/mvvUg.png)
+
+How to use?
+-------------------------------
+- `git clone` or Download the repo
+- Set homepage in browser settings to relevant path in local computer.
+- Firefox use ['New Tab Homepage'](https://www.basson.at/firefox-addons/newtabhomepage) addon
+- Chrome use ['New Tab Redirect'](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
+
+Source
+-------------------------------
+Original work by [tudurom](https://github.com/tudurom/startpage).
